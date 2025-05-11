@@ -153,7 +153,6 @@ class GeneratorPage extends StatelessWidget {
   }
 }
 
-// ...
 
 class BigCard extends StatelessWidget {
   const BigCard({

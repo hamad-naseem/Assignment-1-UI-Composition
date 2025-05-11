@@ -29,10 +29,7 @@ All elements are arranged using Flutter's core layout widgets.
 
 ---
 
-## Screenshots
-
-### Original Image  
-![Lake](assets/lake.jpg)
+## Screenshot
 
 ### Final Output   
 ![Output](assets/output.png)

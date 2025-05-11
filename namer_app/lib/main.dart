@@ -32,6 +32,7 @@ class MyAppState extends ChangeNotifier {
     current = WordPair.random();
     notifyListeners();
   }
+  
   var favorites = <WordPair>[];
 
   void toggleFavorite() {

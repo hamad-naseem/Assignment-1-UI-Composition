@@ -12,9 +12,15 @@ class MyApp extends StatelessWidget {
       title: appTitle,
       home: Scaffold(
         appBar: AppBar(title: const Text(appTitle)),
-        body: const Center(
-          child: Text('Hello World'),
-        ),
+        body: const SingleChildScrollView(
+  child: Column(
+    children: [
+      ImageSection(image: 'images/lake.jpg'),
+      // Other sections will go here later
+    ],
+  ),
+),
+
       ),
     );
   }

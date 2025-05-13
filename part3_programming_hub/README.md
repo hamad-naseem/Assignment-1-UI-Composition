@@ -25,7 +25,7 @@ A sleek, minimal UI clone of the Programming Hub app built using Flutter. The ap
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/programming-hub-ui.git
+    git clone https://github.com/hamad-naseem/Assignment-1-UI-Composition.git
    cd programming-hub-ui
 
 2. Get dependencies:

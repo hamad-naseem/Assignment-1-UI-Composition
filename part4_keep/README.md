@@ -25,8 +25,8 @@ A lightweight Flutter UI project that mimics the Google Keep app layout. This ap
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/hamad-naseem/namer_app.git
-   cd namer_app
+    git clone https://github.com/hamad-naseem/Assignment-1-UI-Composition.git
+   cd part4_keep
    ```
 
 2. Get dependencies:

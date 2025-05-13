@@ -36,7 +36,7 @@ A Flutter app built by following the official [Flutter Codelab - Write your firs
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/namer_app.git
+   git clone [https://github.com/hamad-naseem/Assignment-1-UI-Composition.git]
    cd namer_app
    ```
 
